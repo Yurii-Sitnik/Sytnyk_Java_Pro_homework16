@@ -5,22 +5,22 @@ public class ShakerSort {
         int temp;
 
         do {
-            for (int i = leftSide; i < rightSide; i++) { // Сортир. влево ищем МАКС. знач.
+            for (int i = leftSide; i < rightSide; i++) { // Sort to the left looking for the maximum value
                 if (array[i] > array[i + 1]) {
                     temp = array[i];
                     array[i] = array[i + 1];
                     array[i + 1] = temp;
                 }
             }
-            rightSide--; // Уменьшаем количество проходов
-            for (int i = rightSide; i > leftSide; i--) { // Теперь идём в обратную сторону ищем МИН.
+            rightSide--; // We reduce the number passages
+            for (int i = rightSide; i > leftSide; i--) { // Now we go in the opposite direction and look for the minimum value
                 if (array[i] < array[i - 1]) {
                     temp = array[i];
                     array[i] = array[i - 1];
                     array[i - 1] = temp;
                 }
             }
-            leftSide++; // Уменьшаем количество проходов
+            leftSide++; // We reduce the number passages
         } while (leftSide < rightSide);
 
     }
