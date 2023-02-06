@@ -4,7 +4,6 @@
     <list default="true" id="94e9eb69-b2b4-4f35-8d61-a919bcbb3f8a" name="Changes" comment="homework16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShakerSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShakerSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,12 @@
       <workItem from="1675108843469" duration="1702000" />
       <workItem from="1675110873710" duration="346000" />
       <workItem from="1675185781224" duration="10712000" />
-      <workItem from="1675196661844" duration="355000" />
+      <workItem from="1675196661844" duration="455000" />
+      <workItem from="1675197220522" duration="140000" />
+      <workItem from="1675273043045" duration="1329000" />
+      <workItem from="1675669650053" duration="1383000" />
+      <workItem from="1675673218670" duration="205000" />
+      <workItem from="1675686327009" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="homework16">
       <created>1675196564321</created>
@@ -96,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675196564321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="homework16">
+      <created>1675197107667</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675197107667</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
